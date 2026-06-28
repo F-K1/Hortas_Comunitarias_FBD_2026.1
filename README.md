@@ -15,3 +15,14 @@ Para facilitar o entendimento e a construção dos diagramas, dividimos as regra
 4. **Comunidade e Eventos:** Espaço para publicação de avisos, doações recebidas e inscrições em eventos locais.
 
 ---
+## 📐 Etapas do Projeto
+
+O desenvolvimento do banco de dados seguiu as três fases clássicas de design:
+
+### 1. Modelo Conceitual (Diagrama ER)
+* Representação visual inicial do sistema focada nas regras de funcionamento da horta.
+* O modelo foi desenhado de forma dividida (em módulos) para garantir uma leitura simples e evitar poluição visual.
+
+### 2. Modelo Lógico (Esquema Relacional)
+* Tradução do diagrama conceitual para a estrutura de tabelas, definindo as conexões e interligações oficiais entre os dados.
+* Construído e visualizado com o auxílio da ferramenta **dbdiagram.io**.
