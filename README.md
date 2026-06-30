@@ -26,3 +26,9 @@ O desenvolvimento do banco de dados seguiu as três fases clássicas de design:
 ### 2. Modelo Lógico (Esquema Relacional)
 * Tradução do diagrama conceitual para a estrutura de tabelas, definindo as conexões e interligações oficiais entre os dados.
 * Construído e visualizado com o auxílio da ferramenta **dbdiagram.io**.
+
+### 3. Banco de Dados Físico (SQL)
+* Implementação real do banco de dados utilizando o **PostgreSQL**.
+* Os scripts estão organizados para criar as estruturas, definir as restrições de segurança e automatizar ações (como a atualização automática do estoque de insumos ao realizar uma tarefa de manutenção).
+
+---
