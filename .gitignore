@@ -4,6 +4,7 @@
 
 # Ignorar arquivos de configuração local e senhas
 .env
+*.db
 
 # Ignorar configurações do VS Code (opcional, mas recomendado)
 .vscode/
